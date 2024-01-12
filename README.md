@@ -41,14 +41,14 @@ A strategic approach involving the partitioning of the dataset into smaller, mor
 #### Combination Model
 ![image](https://github.com/steve3636/Project-4-Heart-Prediction-Model/assets/139638282/d29a84f0-927f-49f2-8091-a0fb0a4c7cd5)
 ![image](https://github.com/steve3636/Project-4-Heart-Prediction-Model/assets/139638282/3145358c-33eb-4fdd-b49c-8e42b7f087ce)
-
+![image](https://github.com/steve3636/Project-4-Heart-Prediction-Model/assets/139638282/93fd1c0c-a511-4653-a4e3-096e9e6f6103)
 Combination model also did notshown any major improvement rather than Logistic regression and Gradient Booster abale to performe better individually. Finally Gradient Booster ML was choosen for deployment due to:
 
 #### Flexibility and Versatility:
-*Handles Various Data Types: Supports different types of data and can handle both numerical and categorical features. *Feature Importance: Provides insights into feature importance, allowing the identification of critical factors influencing predictions. 
+Handles Various Data Types: Supports different types of data and can handle both numerical and categorical features. *Feature Importance: Provides insights into feature importance, allowing the identification of critical factors influencing predictions. 
 
 Streamlit modeling used for deployment. The Streamlit modeling chosen for deployment aimed to showcase heart attack risk by adjusting individual characteristics, providing an interactive platform. 
-![image](https://github.com/steve3636/Project-4-Heart-Prediction-Model/assets/139638282/93fd1c0c-a511-4653-a4e3-096e9e6f6103)
+![image](https://github.com/steve3636/Project-4-Heart-Prediction-Model/assets/139638282/e35f0b75-756f-4765-868d-aa5bd49ddae6)
 
 In conclusion, despite testing multiple models and data variations, the desired outcomes weren't achieved. The focus should shift to identifying a singular effective model that demonstrates promising performance. Future studies would benefit from concentrating on fewer yet more pertinent details rather than general, broad-ranging data.
 
