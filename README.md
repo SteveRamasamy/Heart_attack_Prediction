@@ -12,7 +12,9 @@ Initially, data was collected from publicly available sources. This involved ass
 The second stage focused on addressing data issues such as missing values, outlier identification, and the removal of redundant information to ensure dataset cleanliness. Integration: Through the use of Python, disparate libraries and subsets were consolidated by importing independent modules and merging them for essential experimental procedures.
 
 ### Variable Comparison:
-Following integration, a comparison of variables was conducted to comprehend correlations, allowing for a comprehensive analysis of similar variables. Application of ML Algorithms: The final phase cantered on selecting optimal ML models for predictive purposes and developing a heart attack risk prediction app using Streamlet.
+Following integration, a comparison of variables was conducted to comprehend correlations, allowing for a comprehensive analysis of similar variables.
+
+Application of ML Algorithms: The final phase cantered on selecting optimal ML models for predictive purposes and developing a heart attack risk prediction app using Streamlet.
 
 ### Data Information
 ![image](https://github.com/steve3636/Project-4-Heart-Prediction-Model/assets/139638282/6a2ac014-9f60-4364-87a1-392d05239949)
